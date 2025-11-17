@@ -8,15 +8,10 @@ If an idea pops into my head, chances are I’ll build it and ship it.
 
 My main tech stack is react, typescript, tailwind, and framer motion. My favorite tools are figma, apple notes.
 
-I’ve got a bunch of pinned projects, but my favorite is the [Anime website](https://github.com/mirayatech/Anime-Scene-Gallery).
-
-I’ve built over 100 public repos, but privately.. it’s probably more than 200 at this point.
-
-If you want to learn how i do it, [my books and course](https://www.bunnyhop.ai/) are available here!
+I’ve got a bunch of pinned projects, but my favorite is the [Anime-Blog](https://owamit9.github.io/Anime-Blog/).
 
 #### Fun Facts:
 
-* I have two cats
-* I don’t like coffee or tea
+* Hate coffee but love tea...i know it's weird
 * Demon Slayer is my favorite anime
-* **Hobbies:** anime, gym, building things
+* **Hobbies:** anime, gym, coding
