@@ -1,6 +1,6 @@
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m [**Wandile**](https://www.miraya.tech), a Fround-end developer based in South Africa.
+I’m [**Wandile**](https://owamit9.github.io/About-Wandile/), a Fround-end developer based in South Africa.
 
 I design and build whatever I can imagine.
 
