@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-<!--
-**owamit9/owamit9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m [**Wandile**](https://www.miraya.tech), a Fround-end developer based in South Africa.
 
-Here are some ideas to get you started:
+I design and build whatever I can imagine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea pops into my head, chances are I’ll build it and ship it.
+
+My main tech stack is react, typescript, tailwind, and framer motion. My favorite tools are figma, apple notes.
+
+I’ve got a bunch of pinned projects, but my favorite is the [Anime website](https://github.com/mirayatech/Anime-Scene-Gallery).
+
+I’ve built over 100 public repos, but privately.. it’s probably more than 200 at this point.
+
+If you want to learn how i do it, [my books and course](https://www.bunnyhop.ai/) are available here!
+
+#### Fun Facts:
+
+* I have two cats
+* I don’t like coffee or tea
+* Demon Slayer is my favorite anime
+* **Hobbies:** anime, gym, building things
